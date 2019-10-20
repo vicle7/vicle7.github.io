@@ -1,0 +1,31 @@
+p {
+	color: purple;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+
+	
+}
+.p1 { 
+	     color: dodgerblue;
+  	     font-size: 60px; 
+  	     font-family: 'Roboto', sans-serif;
+
+}
+* { 
+	padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+     }
+main { 
+	width: 70%;
+	padding: 50px;
+	margin: auto;
+	background-color: white;
+}
+body {
+	background-image: url(https://st3.depositphotos.com/2673669/14543/i/1600/depositphotos_145435271-stock-photo-horizontal-geometric-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
